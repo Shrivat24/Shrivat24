@@ -3,3 +3,7 @@
 - 🌱 I’m currently in a Drug discovery project using Bioinformatics Approach 
 - 💞️ I’m looking to collaborate on Bioinformatics project 
 - 📫 You can reach me through my mail ID shrivats.sr@gmail.com
+-  have completed a project on Drug Discovery For Lung Cancer Using Bioinformatics Approach under the guidance of Dr. Lokesh Ravi. In this project, we used PyRX and SeeSAR to identify the right compound that could act as a drug for Lung cancer. The compound selected is tested in the laboratory both in vitro and in vivo and currently, I am writing a Journal based on the results obtained from the laboratory test.
+- I attended the Bioinformatics workshop which was a ten-day workshop hosted by Biversity in which I learned about the PCR techniques and creating primer for the PCR and also learned about various software such as ImageJ, Biovia, and Ape - Plasmid editor software. 
+- Zebrafish workshop which was 2 days workshop that was also hosted by the University in which I was able to understand the Zebrafish and the toxicology tests done on them.
+- I am developing my skills in the Biotechnology and chemistry field as well as other fields to the development of my career and to get into the best university to pursue my master's.
