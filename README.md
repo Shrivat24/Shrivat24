@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Shrivats S R 
+- 👀 I’m interested in Bioinfromatics (Protein Docking)
+- 🌱 I’m currently in a Drug discovery project using Bioinformatics Approach 
+- 💞️ I’m looking to collaborate on Bioinformatics project 
+- 📫 You can reach me through my mail ID shrivats.sr@gmail.com
